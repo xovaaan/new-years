@@ -1,0 +1,157 @@
+*{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 0;
+   margin: 0;
+}
+.first{
+    position: absolute;
+    font-weight: 1000;
+    font-size: 58px;
+   margin:200px 70px;
+   padding-left: 760px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.banner1{
+
+}
+.contact{
+    position: absolute;
+    border: 0;
+    background: orangered;
+    border-radius: 7px;
+    color: aliceblue;
+    font-size: 20px;
+    left: 1100px;
+    top: 600px;
+    padding: 20px 20px;
+    font-weight: 500;
+}
+.para{
+    font-size: 17px;
+    top: 500px;
+    position: absolute;
+    left: 830px;
+    font-weight: 300;
+
+}
+.contact-last{
+    margin-top: 400px;
+    gap: 200px;
+    background: black;
+    height: 500px;
+}
+.textdiv{
+    color: aliceblue;
+    display: flex;
+    padding-top: 150px;
+}
+.subscribe{
+    padding-left: 350px;
+    padding-top: 15px;
+}
+.subtext{
+    color: aliceblue;
+}
+.last{
+    padding-top: 20px;
+    padding-left: 60px;
+    
+}
+.future{
+    padding-bottom: 30px ;
+}
+.email-phone{
+    padding-bottom: 15px;
+}
+.email-button{
+    border-color: aliceblue;
+    border: none;
+    font-size: 22px;
+    border-radius: 7px;
+    padding: 7px 30px;
+    color: crimson;
+}
+.emailcheck{
+    border: 0;
+    width: 100%;
+    padding: 10px;
+}
+.watch-head{
+    position: absolute;
+    color: aliceblue;
+    margin: 20px 40px;
+}
+.watchimage{
+    position: absolute;
+}
+.gradient{
+    position: absolute;
+    
+}
+.watch{
+    margin: 20px 100px;
+    padding: 20px 10px;
+
+}
+.c{
+    position: absolute;
+margin: 140px 40px;
+border-radius: 7px;
+height: 60px;
+color: orangered;
+font-size: 20px;
+padding: 15px 30px;
+font-weight: 1000;
+border: none;
+font-family:Arial, Helvetica, sans-serif
+}
+.my-plan{
+    padding: 50px;
+    font-weight: 700;
+    font-size: 30px;
+   text-align: center;
+   margin-bottom: 30px;
+   font-family:Arial, Helvetica, sans-serif
+}
+.plans{
+ display: flex;
+ gap: 80px;
+ padding-left: 200px;
+ padding-bottom: 100px;
+ text-align: center;
+}
+.skills-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;}
+.points{
+    display: flex;
+}
+.para-ul{
+    list-style: none;
+    padding: 500px 700px;
+    position: absolute;
+    justify-content: left;
+    width: 500px;
+    margin-left: 100px;
+    font-weight: 600;
+    color: brown;
+    
+}
+.failures{
+   position: absolute;
+   padding: 200px 800px;
+   width: 400px;
+   font-size: 60px;
+   font-weight: 700;
+   font-family:Arial, Helvetica, sans-serif
+}
+.para-failure{
+   position: absolute;
+   padding: 300px 400px;
+   margin-left: 402px;
+   width: 500px;
+   margin-top: 75px;
+   font-weight: 900;
+}
